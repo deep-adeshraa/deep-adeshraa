@@ -6,7 +6,7 @@
 <br>💫  Distributed Systems Enthusiast 🤖.
 <br>⭐  Changing email marketing @Ubico.
 <br>👩‍💻  Learning new Tech is 💜.
-<br>✌️ See my resume <a href="https://github.com/deep-adeshraa/deep-adeshraa/blob/master/resume.pdf">here</a></p>
+<br>✌️ See my resume <a target="_blank" href="https://github.com/deep-adeshraa/deep-adeshraa/blob/master/resume.pdf">here</a></p>
 
 <h3 align="center">Active On:</h3>
 <p align="center">

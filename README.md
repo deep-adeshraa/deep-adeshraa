@@ -1,4 +1,4 @@
-<img src="https://github.com/deep-adeshraa/deep-adeshraa/blob/master/banner.png" />
+<!-- <img src="https://github.com/deep-adeshraa/deep-adeshraa/blob/master/banner.png" /> -->
 <h1 align="center">Hey There!</h1>
 <h3 align="center">Small intro of Me :</h3>
  <p>
